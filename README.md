@@ -1,1 +1,1 @@
-This is a to-do as a cli 
+This is a to-do (shown as table) as a cli 
